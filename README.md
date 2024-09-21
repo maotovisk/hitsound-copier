@@ -1,3 +1,8 @@
+# This repo is archived, there's a new  rewriten version in C#
+[CLICK HERE](https://github.com/maotovisk/MapWizard)
+
+
+
 <p align="center"><img src="app-icon.png" alt="logo" width="200"/></p>
 
 # Map Wizard
